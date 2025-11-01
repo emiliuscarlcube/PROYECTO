@@ -1,0 +1,70 @@
+.table-container{
+    width: 88%;
+    margin: auto;
+    overflow-x: auto;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid black;
+    padding: 17px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.Descanzo-libre td{
+    padding: 7px;
+    height: auto;
+}
+#fila-top{
+    height: 5px;
+    color: cadetblue;
+}
+#Descanzo{
+    color: cadetblue;
+}
+td.horas{
+    color: cadetblue;
+}
+tr.dias{
+    
+    color: cadetblue;
+}
+td.Programación{
+    background-color: #b39991;
+}
+td.nube{
+    background-color: #cafab1;
+}
+td.Itinerario{
+    background-color: #83b1b1;
+}
+td.Entornos{
+    background-color:  #c6b3d8;
+}
+td.Datos{
+    background-color: #9fcc72;
+}
+td.Marcas{
+    background-color: #fad0a7;
+}
+td.Sistemas{
+    background-color: #599659;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
